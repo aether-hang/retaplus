@@ -381,18 +381,6 @@ The suite covers capacity marginals, distinct anchor assignment, corrected Hodge
 pixel gradients, class-cache handling, cell replay, relabel-cache consistency, and
 development-based student selection.
 
----
-
-## Citation
-
-```bibtex
-@unpublished{li2026retapp,
-  title  = {{RETA++}: Retrieval and Structure Transport Alignment for Dataset Distillation},
-  author = {Li, Muquan and Gou, Hang and He, Tao},
-  year   = {2026},
-  note   = {Manuscript}
-}
-```
 
 ---
 
